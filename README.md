@@ -41,17 +41,9 @@ A basic server built using NodeJS and Express. Tests performed using Jest and Su
 - Endpoint: `/`
   - Response: `The server works!`
 
-- Endpoint: `/bad`
-  - Returns JSON Object
-  
-```json
-  {
-    "error": 500,
-    "route": "/bad",
-    "query": {},
-    "message": "Bad endpoint"
-  }
-```
+- Endpoint: `/person`
+  - Parameters:
+    - name (required)
 
 ### Tests
 
@@ -60,6 +52,6 @@ A basic server built using NodeJS and Express. Tests performed using Jest and Su
 
 ### UML
 
-(Created with [diagrams](https://app.diagrams.net/))
+(Created with [diagrams.net](https://app.diagrams.net/))
 
-![UML Image](URL)
+![UML Image](basic-express-server.png)
