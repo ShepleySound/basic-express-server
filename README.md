@@ -7,9 +7,9 @@ A basic server built using NodeJS and Express. Tests performed using Jest and Su
 ### Author: Robert Shepley
 
 <!-- Replace URL's and add more necessary links -->
-- [Tests Report](URL)
-- [Assignment Pull Request](URL)
-- [Heroku Prod Deployment](URL)
+- [Tests Report](https://github.com/ShepleySound/basic-express-server/actions/runs/3095394839/jobs/5009757013)
+- [Assignment Pull Request](https://github.com/ShepleySound/basic-express-server/pull/1)
+- [Heroku Prod Deployment](https://shepley-basic-express-server.herokuapp.com/)
 
 ### Setup
 
