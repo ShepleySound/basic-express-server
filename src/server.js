@@ -25,8 +25,4 @@ app.use('*', notFound);
 
 app.use(errorHandler);
 
-function start(port) {
-  app.listen(port);
-}
-
-module.exports = { start, app };
+module.exports = { app };

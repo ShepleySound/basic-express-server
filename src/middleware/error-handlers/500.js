@@ -6,6 +6,6 @@ module.exports = (err, req, res, next) => {
     route: req.path,
     query: req.query,
     body: req.body,
-    message: typeof(err) === 'string' ? err : `SERVER ERROR: ${err.message}`,
+    message: `SERVER ERROR: ${err.message}`,
   });
 };
