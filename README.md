@@ -10,6 +10,7 @@ A basic server built using NodeJS and Express. Tests performed using Jest and Su
 - [Tests Report](https://github.com/ShepleySound/basic-express-server/actions/runs/3095394839/jobs/5009757013)
 - [Assignment Pull Request](https://github.com/ShepleySound/basic-express-server/pull/1)
 - [Heroku Prod Deployment](https://shepley-basic-express-server.herokuapp.com/)
+- [AWS GUI/Console Deployment](http://basicexpressserver-env.eba-vcu5gsa7.us-west-2.elasticbeanstalk.com/)
 
 ### Setup
 
